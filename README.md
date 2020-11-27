@@ -18,15 +18,15 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 👨‍💻 All of my projects are available at [hammiddi.me/projects/](hammiddi.me/projects/)
+- 👨‍💻 All of my projects are available at [hammiddi.me/projects](hammiddi.me/projects/)
 
-- 📝 I regulary write articles on [hammiddi.me/blogs/](hammiddi.me/blogs/)
+- 📝 I regulary write articles on [hammiddi.me/blogs](hammiddi.me/blogs/)
 
-- 💬 Ask me about **flutter, dart, c**
+- 💬 Ask me about **flutter, dart and c**
 
 - 📫 How to reach me **mr.hammiddi@gmail.com**
 
-- 📄 Know about my experiences [hammiddi.me/bio/](hammiddi.me/bio/)
+- 📄 Know about my experiences [hammiddi.me/bio](hammiddi.me/bio/)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammiddi&show_icons=true&locale=en&layout=compact" alt="hammiddi" /></p>
