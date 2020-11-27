@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [projects](https://hammiddi.me/projects/)
 
-- 📝 I regulary write articles on [blog](https://hammiddi.me/blogs/)
+- 📝 I regulary write articles on [blog](https://hammiddi.me/essays/)
 
 - 💬 Ask me about **flutter, dart and c**
 
