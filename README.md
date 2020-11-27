@@ -18,9 +18,9 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 👨‍💻 All of my projects are available at [projects](hammiddi.me/projects/)
+- 👨‍💻 All of my projects are available at [hammiddi.me/projects/](hammiddi.me/projects/)
 
-- 📝 I regulary write articles on [blogs](hammiddi.me/blogs/)
+- 📝 I regulary write articles on [hammiddi.me/blogs/](hammiddi.me/blogs/)
 
 - 💬 Ask me about **flutter, dart and c**
 
