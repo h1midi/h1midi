@@ -26,7 +26,6 @@
 
 - 📫 How to reach me **mr.hammiddi@gmail.com**
 
-- 📄 Know about my experiences [bio](hammiddi.me/bio/)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammiddi&show_icons=true&locale=en&layout=compact" alt="hammiddi" /></p>
