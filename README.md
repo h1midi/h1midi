@@ -35,29 +35,23 @@
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
     </a>
-
     <a href="https://developer.android.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
             alt="android" width="35" height="35" /> 
     </a> 
-
     <a href="https://dart.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35" /> 
     </a>
-
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="35"
             height="35" /> 
     </a> 
-
     <a href="https://firebase.google.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" />
     </a> 
-
     <a href="https://www.sqlite.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35" /> 
     </a>
-
     <a href="https://redis.io" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"
             width="35" height="35" /> 
