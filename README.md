@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate app developer from Algeria</h3>
 
-<img align="left" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="40" height="40" />
+<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on **EDTECH mobile app**
 
