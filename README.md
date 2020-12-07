@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED</h1>
+<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="70" height="70" />
 <p align="center">
 <a href=https://codepen.io/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="hammiddi" height="20" width="20" /></a>
 <a href=https://dev.to/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hammiddi" height="20" width="20" /></a>
@@ -11,7 +12,6 @@
 
 <h3 align="center">A passionate app developer from Algeria</h3>
 
-<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on **EDTECH mobile app**
 
