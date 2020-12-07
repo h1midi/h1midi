@@ -11,7 +11,6 @@
 
 <h3 align="center">A passionate app developer from Algeria</h3>
 
-<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="350" height="350" />
 - 🔭 I’m currently working on **EDTECH mobile app**
 
 - 🌱 I’m currently learning **backend development**
@@ -56,5 +55,6 @@
             width="35" height="35" /> 
     </a> 
 </p>
+<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="350" />
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hammiddi&show_icons=true&locale=en&layout=compact" alt="hammiddi" /></p>
