@@ -24,11 +24,6 @@
 - 📫 How to reach me **mr.hammiddi@gmail.com**
 
 
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammiddi&show_icons=true&locale=en&layout=compact" alt="hammiddi" /></p>
-
 <p align="center"> 
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
@@ -55,6 +50,4 @@
             width="35" height="35" /> 
     </a> 
 </p>
-<img align="right" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="350" />
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hammiddi&show_icons=true&locale=en&layout=compact" alt="hammiddi" /></p>
+<img align="center" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="350" />
