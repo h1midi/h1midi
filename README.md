@@ -49,8 +49,8 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"
             width="35" height="35" /> 
     </a> 
+    <img align="center" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="60" />
 </p>
 
-<img align="center" src="https://media.giphy.com/media/i38FaXCRqR7HcfZimq/giphy.gif" width="350" />
 
 
