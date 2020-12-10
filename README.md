@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MOHAMMED</h1>
+<h1 align="center">Hi 👋, I'm MOHAMMED </h1>
 <p align="center">
 <a href=https://codepen.io/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="hammiddi" height="20" width="20" /></a>
 <a href=https://dev.to/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hammiddi" height="20" width="20" /></a>
