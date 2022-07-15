@@ -1,11 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm MOHAMMED </h1> 
 <p align="center">
-<a href=https://codepen.io/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="hammiddi" height="20" width="20" /></a>
-<a href=https://dev.to/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hammiddi" height="20" width="20" /></a>
-<a href=https://twitter.com/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="hammiddi" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/hammiddi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="hammiddi" height="20" width="20" /></a>
-<a href="https://fb.com/hammiddii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hammiddii" height="20" width="20" /></a>
-<a href="https://instagram.com/hammiddi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hammiddi" height="20" width="20" /></a>
+<a href=https://www.youtube.com/c/hammiddi target="blank"><img align="center" src=https://raw.githubusercontent.com/hammiddi/assets/54044f1fbc1535b746da1c876cce14e7baef7236/youtube%20.svg alt="hammiddi" height="20" width="20" /></a>
+<a href=https://twitter.com/hammiddi target="blank"><img align="center" src=https://raw.githubusercontent.com/hammiddi/assets/dda09b1dcb3a9177a5a851a1f23b0c8520d28488/twitter.svg alt="hammiddi" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/hammiddi target="blank"><img align="center" src=https://raw.githubusercontent.com/hammiddi/assets/dda09b1dcb3a9177a5a851a1f23b0c8520d28488/linkedin.svg alt="hammiddi" height="20" width="20" /></a>
+<a href="https://fb.com/hammiddii" target="blank"><img align="center" src=https://raw.githubusercontent.com/hammiddi/assets/dda09b1dcb3a9177a5a851a1f23b0c8520d28488/facebook.svg alt="hammiddii" height="20" width="20" /></a>
+<a href="https://instagram.com/hammiddi" target="blank"><img align="center" src=https://raw.githubusercontent.com/hammiddi/assets/dda09b1dcb3a9177a5a851a1f23b0c8520d28488/instagram.svg alt="hammiddi" height="20" width="20" /></a>
 </p>
 </p>
 
@@ -13,13 +13,11 @@
 
 - 🔭 I’m currently working on **EDTECH mobile app**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **Java & Kotlin**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 👯 I’m looking to collaborate on **Flutter projects**
 
 - 👨‍💻 All of my projects are available here
-
-- 💬 Ask me about **flutter, dart and c**
 
 - 📫 How to reach me **mr.hammiddi@gmail.com**
 
@@ -32,9 +30,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
             alt="android" width="35" height="35" /> 
     </a> 
-    <a href="https://dart.dev" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35" /> 
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35"
             height="35" /> 
