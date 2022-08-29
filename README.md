@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **EDTECH mobile app**
 
-- 🌱 I’m currently learning **Java & Kotlin**
+- 🌱 I’m currently learning **Kotlin, PostgreSQL & Rust**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **Android projects**
 
 - 👨‍💻 All of my projects are available here
 
@@ -30,8 +30,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
             alt="android" width="35" height="35" /> 
     </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <a href="https://www.cprogramming.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35"
+            height="35" /> 
+    </a>  
+    <a href="https://www.rust-lang.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35"
             height="35" /> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> 
@@ -40,8 +44,8 @@
     <a href="https://www.sqlite.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35" /> 
     </a>
-    <a href="https://redis.io" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="redis"
+    <a href="https://www.postgresql.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql"
             width="35" height="35" /> 
     </a> 
 </p>
