@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35" />
     </a>
     <a href="https://developer.android.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
             alt="android" width="35" height="35" /> 
     </a> 
     <a href="https://www.cprogramming.com" target="_blank"> 
