@@ -24,7 +24,10 @@
 
 <p align="center">  
     <a href="https://flutter.dev" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35" />
     </a>
     <a href="https://developer.android.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
@@ -39,13 +42,13 @@
             height="35" /> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="35" height="35" />
     </a> 
     <a href="https://www.sqlite.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="35" height="35" /> 
     </a>
     <a href="https://www.postgresql.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"
             width="35" height="35" /> 
     </a> 
 </p>
