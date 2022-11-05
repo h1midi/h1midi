@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **EDTECH mobile app**
 
-- 🌱 I’m currently learning **Kotlin, PostgreSQL & Rust**
+- 🌱 I’m currently learning **Kotlin, PostgreSQL & Spring**
 
 - 👯 I’m looking to collaborate on **Android projects**
 
@@ -38,7 +38,7 @@
             height="35" /> 
     </a>  
     <a href="https://www.rust-lang.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="35"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35"
             height="35" /> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> 
